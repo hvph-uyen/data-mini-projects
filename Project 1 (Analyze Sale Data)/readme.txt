@@ -1,4 +1,4 @@
-#### Project description
+[Project description]
 
 Task completed:
 - Clean data (remove nulls, check column types)
