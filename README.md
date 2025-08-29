@@ -1,5 +1,5 @@
-# data-analysis-mini-projects
-This is my data analysis practice repo
+# data-mini-projects
+This is my data practice repo
 
 This repo consists of
 - Project 3: Explore school test scores
